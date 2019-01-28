@@ -47,7 +47,7 @@ Petra Cotright, "Die Rose", 2016
   - Variety
 
 ## Homework Assignment
-- Take five or so photographs with your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images.
+- Take five or so photographs wit h your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images.
 
 ## Homework
 - Finish unity assignment if you have not already
