@@ -53,5 +53,6 @@ Petra Cotright, "Die Rose", 2016
 - Finish unity assignment if you have not already
 - Read Practices of Looking and pick out some quotes that illustrate some of the big ideas. Also write down one or two questions that come to you as you read.
 - Take ~5 photos for in class assignment next week
-- [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapters 10-14 to learn image adjustments
-- **Optional:** [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapters 4-10 if you want to review and learn even more along the lines of what we learned today.
+- [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapter 14 to learn image adjustments. (you will have to login through gwu portal and then search for the tutorials by name)
+[link to gwu portal](https://singlesignon.gwu.edu/idp/profile/SAML2/Redirect/SSO?execution=e3s1)
+- **Optional:** [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapters 4-13 if you want to review and learn even more along the lines of what we learned today.
