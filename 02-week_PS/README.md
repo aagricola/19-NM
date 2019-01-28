@@ -53,4 +53,5 @@ Petra Cotright, "Die Rose", 2016
 - Finish unity assignment if you have not already
 - Reading in this week's "download examples" folder
 - Take 5 photos for in class assignment next week
-- **Optional:** [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  if you want to review and learn even more along the lines of what we learned today.
+- [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapters 10-14 to learn image adjustments
+- **Optional:** [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  chapters 4-10 if you want to review and learn even more along the lines of what we learned today.
