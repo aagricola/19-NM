@@ -51,7 +51,6 @@ Petra Cotright, "Die Rose", 2016
 
 ## Homework
 - Finish unity assignment if you have not already
-- Take photos for in class assignment next week
-- Lynda Photoshop CC 2015 Essential training Chapters 12 - 14
-- More good tricks for image adjustments can be learned in the Photoshop CC 2018 Essential Training: Photography
+- Reading in this week's "download examples" folder
+- Take 5 photos for in class assignment next week
 - **Optional:** [Lynda Photoshop CC 2018 Essential training Basics](https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html)  if you want to review and learn even more along the lines of what we learned today.
