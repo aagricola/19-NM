@@ -47,7 +47,7 @@ Petra Cotright, "Die Rose", 2016
   - Variety
 
 ## Homework Assignment
-- Take two photographs with your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images. Using adjustments in photoshop, alter how the image is read or perceived. Tell one truth and one fiction. You can make drastic or subtle changes to make one image ring more true, and to manipulate the other to be less true. This assignment is based on Practices of Looking. We will look at these in class next week. You will turn in four files, two originals and two edits.
+- Take five or so photographs with your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images. 
 
 ## Homework
 - Finish unity assignment if you have not already
