@@ -41,6 +41,7 @@ Choose three of the images you took and using adjustments in photoshop, alter ho
 
 ## Homework
 - Finish two truths and a fiction assignment
+- If you are presenting next week, send me your topic this week sometime. 
 - Readings:
   - Typography: Section 4 Intro (you can read the whole thing but only the intro is required)
   - Stop Stealing Sheep
