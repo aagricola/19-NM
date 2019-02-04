@@ -4,12 +4,14 @@
 - Look at Unity collages
 - [Google drive folders](https://drive.google.com/drive/u/1/folders/1sBC3zTkl3oXMMkQ0sMqz_QYo2RVD4wWJ) for submitting assignments
 - Discuss Practices of Looking
-- Photoshop Image Adjustments
-- In class time for working on editing images in Photoshop
+- 2 Truths and a Fiction Assignment
+  - Go out and practice Looking
+  - Come back and use image adjustments in Photosho[ to alter images
+
 
 ## Practices of Looking
 
-![weegee](https://s3.amazonaws.com/icptmsdata/w/e/e/g/weegee_13_1997_465009_displaysize.jpg)
+![weegee](http://www.streetshootr.com/wp-content/uploads/2014/11/weege-first-murder.jpg)
 
 Weegee, Their First Murder, 1945
 
@@ -33,8 +35,8 @@ Ai Weiwei, Dropping a Han Dynasty Urn, 1995
 
 
 
-## Homework Assignment
-Take five or so photographs with your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images.
+## Assignment 2: Two Truths and a Fiction
+Take five or so photographs with your phone or camera. Continue to uses concepts we learned about unity when framing and composing your images as well as employ practices of looking and discerning.
 Choose three of the images you took and using adjustments in photoshop, alter how the image is read or perceived. Tell two truths and a fiction. You can make drastic or subtle changes. This assignment is based on the Practices of Looking reading and what we discussed today about how meaning is made and derived from images. When you are finished with the edit, save it for yourself as .psd but please save a copy as .jpg. Please put your edited jpgs and the original images in a new folder named "assignment 2" in your google drive folder.
 
 ## Homework
