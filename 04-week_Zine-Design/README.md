@@ -47,9 +47,13 @@ Another Hollywood Dream Bubble Popped, 1976
 
 - Please explore some more zines that I have brought to class with me and on issuu (in the link above) for inspiration for your assignment and projects.
 
-## Assignment
+## InDesign Assignment
 
-Create a layout for your two truths and a fiction homework. Using your reading as a source of inspiration, combine text with your images to make a zine that you can print out today.
+Create a layout for your two truths and a fiction homework.
+
+##Illustrator Assignment
+
+Drawing upon your reading as a source of inspiration, use Illustrator to create a work of word art. Feel free to use text in combination with a collage or image you have previously made.
 
 ## Project 1 : Due March 4
 
@@ -62,12 +66,13 @@ Requirements:
 - Printed and assembled before class on March 4
 - At least 6 pages total
 
-## Illustrator Practice Resources
-
-[Method.AC](https://method.ac/) fun games to practice Kerning and using Bezier tool and such
-
 ## Homework
 - Finish Assignment 3
 - Work on Project 1 over the break
   - send me your project proposal by next class
 - If you are presenting next time we meet, send me your topic this week sometime.
+
+## Resources
+- [Method.AC](https://method.ac/) fun games to practice Kerning and using Bezier tool and such
+- Lynda Adobe InDesign 2019 Essential Training
+- Lynda Adobe Illustrator 2019 Essential Training
