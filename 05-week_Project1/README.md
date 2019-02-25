@@ -2,6 +2,8 @@
 
 ## Today:
 - Presentations
+- Open your word art from last week on your computers
+  - walk around and pick one thing to talk about in one of your peer's work
 - Project 1 Work day!
   - one-on-one progress meetings with me
 
