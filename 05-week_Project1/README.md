@@ -23,7 +23,7 @@ Requirements:
 - Project Proposal (due by today):
   - Project description - conceptual and visual plan
   - Execution plan (deliverables organized by date)
-- Print and assembled 3 copies of your zine before class on March 4
+- Print and assembled 14 copies of your zine before class on March 4
 - At least 6 pages total
 - Have your name and title incorporated somewhere
 
