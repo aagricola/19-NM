@@ -16,6 +16,8 @@ E-mail: aagricola@email.gwu.edu
 
  ## Online Resources
  This is a working list I will be adding to, and I hope you let me know if you find great resources you'd like me to add.
+ - [Young Artists in Conversation](https://youngartistsinconversation.co.uk/)
+ - [The Creative Independent](https://thecreativeindependent.com/)
  - [Art 21](http://magazine.art21.org/)
  - [Rhizome](http://rhizome.org/)
  - [Good Point Podcast](http://www.goodpointpodcast.com/)
