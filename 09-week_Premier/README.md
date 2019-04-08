@@ -7,16 +7,6 @@
 - Collect video footage
 - Intro to Premier
 
-## Collect Video footage
-
-- you can use pre exisiting videos you might have
-- Go out and shoot new footage with your phone
-- AND/OR download some from the internet
-  - if the site where the video is hosted offers downloading, use it
-  - otherwise, utilize a helper website to download the mp4 file
-  - there are hundreds out there; just avoid anything that seems sketchy and don’t download anything other than a video file
-  - [here is one I have used in the past](https://www.onlinevideoconverter.com/youtube-converter)
-
 ## Video Art // Video Collage
 
 [Joan Jonas, Volcanic Saga, 1989](https://www.youtube.com/watch?v=qdSEpXrw8vY)
@@ -44,7 +34,17 @@ In this video, actors are cut and pasted over scenes of Icelandic landscapes tel
 "As a self-proclaimed “Famous New Media Artist” and Head of Experience at FreshBooks, a startup on a mission to reshape the world for the self-employed, I believe that technology, creatively misused, empowers us all to be famous. " []-Jeremy Bailey](https://www.jeremybailey.net/)
 
 ## Assignment
-Collect footage (found and/or shot) and create a video collage in Premier. You could explore a particular subject matter or make a purely aesthetic exploration of form and color in motion. This is meant to be a way of learning and exploring the features of Adobe Premier.
+
+**Collect Video footage**
+
+- you can use pre exisiting videos you might have
+- Go out and shoot new footage with your phone
+- AND/OR download some from the internet
+  - if the site where the video is hosted offers downloading, use it
+  - otherwise, utilize a helper website to download the mp4 file
+  - there are hundreds out there; just avoid anything that seems sketchy and don’t download anything other than a video file
+  - [here is one I have used in the past](https://www.onlinevideoconverter.com/youtube-converter)
+- Create a video collage in Premier. You could explore a particular subject matter or make a purely aesthetic exploration of form and color in motion. This is meant to be a way of learning and exploring the features of Adobe Premier. So try creating layers, try some effects and have fun with it!
 
 
 ## Homework:
