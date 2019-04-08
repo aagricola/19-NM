@@ -55,6 +55,7 @@ In this video, actors are cut and pasted over scenes of Icelandic landscapes tel
 
 - Finish video collage & add sound if you have not already
 - Work on Project 2
+- Watch [Lynda: Premier Pro Essential Training. Chapters 4-7 & 10](https://www.lynda.com/Premiere-Pro-tutorials/Welcome/758639/808536-4.html) (some of this will be review but she will go more in depth in certain topics that we did not cover)
 
 ## Project 2
 Using any combination of skills developed in class and through personal research, design a **system** that investigates, comments on, or even disrupts a technology, social system, cultural algorithm, or codes that are at work on a micro and macro scale in our world/society. Feel free to work in pairs.
