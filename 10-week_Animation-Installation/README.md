@@ -2,9 +2,9 @@
 
 ## Today:
 - Annie's Presentation
-- View video collages
 - Finishing touches to videos
   - Export & Submit
+- View video collages
 - Animation in Photoshop
 - Project 2 check in
 - Mad Mapper
