@@ -31,10 +31,6 @@ People Like Us, Gone Gone Beyond, 2018
 "Gone, Gone Beyond is an immersive a/v spatial cinema work by People Like Us, which breaks the rectangle, smashing the thin screen into tiny fragments, looking beyond the frame, climbing through to see what’s behind.  It uses appropriated edited collage sewn together in a giant patchwork. Pull on a thread and watch whole new narratives expand and unravel all at once on a 360 palette."
 [link to tailor](https://vimeo.com/300272753?autoplay=1)
 
-"Since 1991 British artist Vicki Bennett has been working across the field of audio-visual collage, and is recognised as an influential and pioneering figure in the still growing area of sampling, appropriation and cutting up of found footage and archives. Working under the name People Like Us, Vicki specialises in the manipulation and reworking of original sources from both the experimental and popular worlds of music, film and radio. People Like Us believe in open access to archives for creative use. "
-
-[The End of the Sound of Music](http://peoplelikeus.org/2011/the-sound-of-the-end-of-music/)
-
 ![pip](http://artfcity.com/wp-content/uploads/2016/12/28RISTJP4-master675-640x428.jpg)
 
 ![rist](https://static.mfah.com/app/images/eaeb845c-505b-e711-80cf-0050569125fe.636341754350419206.jpg?maxWidth=1600&maxHeight=1600&format=jpg&quality=90)
