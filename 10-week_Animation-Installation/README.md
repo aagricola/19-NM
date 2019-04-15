@@ -1,7 +1,7 @@
 # Week 10: Animation Techniques and Mad Mapper
 
 ## Today:
-- Student Presentation
+- Annie's Presentation
 - View video collages
 - Finishing touches to videos
   - Export & Submit
@@ -75,7 +75,8 @@ VIDEO INSTALLATION DOES NOT PLAY ITSELF OUT ON A STAGE OR A SCREEN
 [Rube Goldburg Machines](https://www.rubegoldberg.com/artwork/self-watering-palm-tree/?c=45)
 
 - Make an animation in Photoshop (or After Effects if you choose) or a video in Premier based on one section of the selected Rube Goldburg cartoon
-- We will put them all together using Mad Mapper
+- Draw or print something to map on paper to put up on the bulletin board
+- Everyone will map your animation to the drawing using Mad Mapper
 
 
 ## Homework:
