@@ -74,7 +74,7 @@ VIDEO INSTALLATION DOES NOT PLAY ITSELF OUT ON A STAGE OR A SCREEN
 
 [Rube Goldburg Machines](https://www.rubegoldberg.com/artwork/self-watering-palm-tree/?c=45)
 
-- Make an animation in Photoshop (or After Effects if you choose) based on one section of the selected Rube Goldburg cartoon
+- Make an animation in Photoshop (or After Effects if you choose) or a video in Premier based on one section of the selected Rube Goldburg cartoon
 - We will put them all together using Mad Mapper
 
 
